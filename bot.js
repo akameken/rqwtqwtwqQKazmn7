@@ -178,7 +178,7 @@ ${videoInfo.title}
 
 **`)
 
-                ��       .setColor("RANDOM")
+                      .setColor("RANDOM")
 
                         .addField(`بواسطه`, message.author.username)
 
