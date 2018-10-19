@@ -485,7 +485,7 @@ client.on('message', message => {
 
                         .setColor('RANDOM')
 
-   ��                    .addField("**PLAYING 🎮 **","** **")
+                 .addField("**PLAYING 🎮 **","** **")
 
          message.channel.send({embed:embed});
 
