@@ -15,7 +15,7 @@ const fetchVideoInfo = require('youtube-info');
 
 const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";
 
-const prefix = '6';
+const prefix = '7';
 
 client.on('ready', function() {
 
